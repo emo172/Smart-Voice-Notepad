@@ -1,0 +1,16 @@
+release/main.o
+release/mainwindow.o
+release/mdichild.o
+release/login.o
+release/widget.o
+release/audio.o
+release/http.o
+release/speech.o
+release/qrc_myImage.o
+release/moc_mainwindow.o
+release/moc_mdichild.o
+release/moc_login.o
+release/moc_widget.o
+release/moc_audio.o
+release/moc_http.o
+release/moc_speech.o
